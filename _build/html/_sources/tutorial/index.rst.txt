@@ -1,4 +1,4 @@
-Welcome to mu_doc's documentation!
+
 ==================================
 
 .. toctree::

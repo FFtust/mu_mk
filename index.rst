@@ -3,9 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to mu_doc's documentation!
+Welcome to mu documentation!
 ==================================
 
-.. toctree::
-   tutorial/index.rst
+Introduction
+-------------------------------------
 
+    Mu is a python editor, get more information on `mu <https://mu.readthedocs.io/en/latest/>`_.
+    We support a new device halocode, except the basic functions of mu, you can also use the firmware upgrading, script uploading, stronger repl functions.
+
+
+.. toctree::
+   tutorial/tutorial.rst
+   api/api.rst
+   resource/resource.rst
